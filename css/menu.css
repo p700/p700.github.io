@@ -1,0 +1,41 @@
+html{
+	height: 100%;
+	background-color: #00bfa5;
+}
+body{
+	background-color: #00bfa5;
+	width: 100%;
+	margin: 0 auto;
+}
+.nav span{
+	border-bottom: 1px dotted #ddd;
+    font-size: 18px;
+    font-weight: bold;
+    height: 44px;
+    line-height: 44px;
+	text-indent: 1em;
+    padding-top: 10px;
+    color: #9f3;
+    display: block;
+}
+.nav ul li{
+	font-size: 16px;
+	border-bottom: 1px dotted #adadad;
+    height: 40px;
+    line-height: 40px;
+    text-indent: 4em;
+}
+.nav ul li a{
+	color: #666;
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.nav ul li a:hover{
+	color: #fff;
+	background-color: rgb(253,138,27);
+}
+.nav ul .on a{
+	color: #fff;
+	background-color: rgb(253,138,27);
+}

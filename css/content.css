@@ -50,6 +50,5 @@ th,td{
 .other td{
 	background-color: #f2f2f2;
 }
-/*b分享*/
-.bshareDiv{float: right;}
-.buzzButton{display: none!important;}
+/*分享*/
+.bdsharebuttonbox{float: right;}
